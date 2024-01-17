@@ -1,0 +1,19 @@
+.tab-row-container {
+  list-style-type: none;
+  margin-right: 30px;
+}
+
+.active-tab-button {
+  background-color: #db1c48;
+}
+
+.tab-btn {
+  border: 1px solid #db1c48;
+  background-color: #ffffff;
+  color: black;
+  border-radius: 14px;
+  height: 30px;
+  width: 80px;
+  font-family: "Roboto";
+
+}
